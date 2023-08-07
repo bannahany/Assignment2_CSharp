@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqJA4gWq07Uo6CiPkG8vqPo/pmxaRds086Q55+l5/M1CnLiEGRcDaucgAUQyKU17lhFJDUbqrDuXVLYfxnQl4A==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\ApplicationDevelopment\\Assignment_2\\Assignment_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\banna\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\banna\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\banna\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\banna\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
